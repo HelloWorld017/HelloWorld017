@@ -15,7 +15,7 @@
 > 안녕하세요! 저는 소프트웨어 개발에 관심이 많은 한국과학기술원 전산학부 2학년 김요한입니다.  
 > `nenw*`이나 `Khinenw`라는 이름으로 활동중입니다. 읽을 때는 (아마도) `/nɛnɯ/`라고 읽으시면 됩니다.
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=HelloWorld017&bg_color=202020&text_color=a0a0a0&title_color=ffffff&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=HelloWorld017&bg_color=202020&text_color=a0a0a0&title_color=ffffff)
 
 ## ❤ 관심분야
 웹 기술, 컴퓨터 그래픽스, 머신러닝, 프로그래밍 언어 및 디자인에 관심이 많습니다.
