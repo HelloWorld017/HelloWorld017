@@ -1,6 +1,8 @@
 # 👨‍💻 프로필
 <img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%">
-<img src="https://static.nenw.dev/GithubWeb.png" alt="Banner" width="33.33%"><img src="https://static.nenw.dev/GithubMail.png" alt="Banner" width="33.33%"><img src="https://static.nenw.dev/GithubTelegram.png" alt="Banner" width="33.33%">
+<div>
+<img src="https://static.nenw.dev/GithubWeb.png" alt="Banner" width="33%"><img src="https://static.nenw.dev/GithubMail.png" alt="Banner" width="33%"><img src="https://static.nenw.dev/GithubTelegram.png" alt="Banner" width="33%">
+</div>
 
 > ```javascript
 > Khinenw.status('Aviation in Progress');
