@@ -2,7 +2,7 @@
 <div>
   <img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%">
   <div>
-    <a href="https://nenw.dev"><img src="https://static.nenw.dev/GithubWeb.png" alt="Page: nenw.dev" width="33.33%"></a><a href="mailto:nenw@nenw.moe"><img src="https://static.nenw.dev/GithubMail.png" alt="Mail: nenw@nenw.moe" width="33.33%"></a></div><a href="https://t.me/Khinenw"><img src="https://static.nenw.dev/GithubTelegram.png" alt="Telegram: @Khinenw" width="33.33%"></a>
+    <a href="https://nenw.dev"><img src="https://static.nenw.dev/GithubWeb.png" alt="Page: nenw.dev" width="33.33%"></a><a href="mailto:nenw@nenw.moe"><img src="https://static.nenw.dev/GithubMail.png" alt="Mail: nenw@nenw.moe" width="33.33%"></a><a href="https://t.me/Khinenw"><img src="https://static.nenw.dev/GithubTelegram.png" alt="Telegram: @Khinenw" width="33.33%"></a>
   </div>
 </div>
 
