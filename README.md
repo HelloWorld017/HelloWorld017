@@ -1,4 +1,7 @@
+![My Profile View Count](https://komarev.com/ghpvc/?username=HelloWorld017&style=flat-square&color=grey)  
+
 # 👨‍💻 프로필
+
 <div>
   <img src="https://static.nenw.dev/GithubBanner.png" alt="Banner" width="100%">
   <div>
@@ -14,6 +17,8 @@
 > ```
 > 안녕하세요! 저는 소프트웨어 개발에 관심이 많은 한국과학기술원 전산학부 2학년 김요한입니다.  
 > `nenw*`이나 `Khinenw`라는 이름으로 활동중입니다. 읽을 때는 (아마도) `/nɛnɯ/`라고 읽으시면 됩니다.
+
+<br>  
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=HelloWorld017&bg_color=202020&text_color=a0a0a0&title_color=ffffff)
 
@@ -59,6 +64,11 @@
 
 ## ✨ 기타
 > 반짝거리고 두근거리고 싶어요!
+
+<!--
+![Spotify 재생중인 음악](https://spotify-github-profile.vercel.app/api/view?uid=7h13yrjxk0rphahvzw1q4e26c&cover_image=true&theme=novatorem)
+-->
+
 <!--
 > 제 리드미에 더 이상의 내용은 없으니 소스를 까보시지 않아도 됩니다.
 -->
