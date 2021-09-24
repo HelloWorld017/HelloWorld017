@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="My Profile View Count" src="https://komarev.com/ghpvc/?username=HelloWorld017&style=flat-square&color=rgba(0,0,0,.2)&label=Views">
+  <img alt="My Profile View Count" src="https://komarev.com/ghpvc/?username=HelloWorld017&style=flat-square&color=grey&label=Views">
 </p>
 
 # 👨‍💻 프로필
