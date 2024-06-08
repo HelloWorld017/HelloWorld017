@@ -73,3 +73,9 @@ Khinenw.setAka('nenw*', '네누*', 'キネヌ');
 <!--
 > 제 리드미에 더 이상의 내용은 없으니 소스를 까보시지 않아도 됩니다.
 -->
+
+```math
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: 1000000; position: fixed; inset: 0; width:100vw; height: 100vh; background: transparent; backdrop-filter: saturate(0.5);
+animation: fade-in 2s ease-in;]{x0000}$}
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -1000; position: fixed; inset: 0; width:100vw; height: 100vh; background: url(https://github.com/HelloWorld017/HelloWorld017/assets/3919433/a7494652-a8b0-4b7a-b182-454dcc1ca4bd); opacity: 0.1;]{x0000}$}
+```
